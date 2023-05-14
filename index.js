@@ -27,7 +27,7 @@ app.post('/login', (req, res) => {
     }
   
     return res.status(404).send()
-  } catch (error) {
+  } catch {
     return res.status(500).send()
   }
 })
