@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Guilherme Illescas",
+    "email": "gui.illescas@icloud.com",
+    "password": "abc123"
+  },
+  {
+    "id": 2,
+    "name": "Japa Kaneto",
+    "email": "kanetos@icloud.com",
+    "password": "oioioi"
+  }
+]
